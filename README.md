@@ -9,7 +9,7 @@ Get started with a one-click deployment on Heroku!
 1. **Deploy on Heroku:**  
    Click the button below to deploy this tool instantly.
 
-   [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/&template=https://github.com/XugeuTY/Master-Level-1-Private)
+   [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/nikhilkumarray2010-a11y/Course-extractor))
 
 2. **Configure Your Environment Variables:**  
    Set up the necessary environment variables on Heroku for secure and smooth operation.
@@ -74,3 +74,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 We welcome contributions! Please feel free to submit a pull request for any enhancements or fixes.
 
 ### 🌟 Enjoy hassle-free access to educational content with Master-L1-DRM!
+
